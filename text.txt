@@ -1,0 +1,4 @@
+Karel:Bořek:ano:2024-03-12
+Vojtěch:Hladiš:ne:1999-12-31
+Petr:Sedlák:ano:2007-01-14
+Adam:Novotný:ne:2010-06-07
